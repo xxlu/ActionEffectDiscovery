@@ -1,0 +1,11 @@
+﻿EID;CID;Time;Event;Response
+1;1; 12-05-2017 09:53 ;va;Warning
+2;1; 13-05-2017 13:35 ;po;"DistractClient;Seclusion"
+3;1; 26-05-2017 09:32 ;va;Warning
+4;1; 26-05-2017 11:02 ;pp;DistractClient
+5;2; 21-06-2017 14:51 ;va;DistractClient
+6;1; 23-06-2017 21:23 ;va;DistractClient
+7;2; 24-06-2017 17:02 ;va;NoResponse
+8;3; 29-08-2017 11:22 ;va;Warning
+9;3; 31-08-2017 08:13 ;po;"Warning;Seclusion"
+10;3; 31-08-2017 10:48 ;pp;DistractClient
