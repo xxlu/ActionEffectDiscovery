@@ -9,5 +9,7 @@ Jelmer J. Koorn,
 Xixi Lu,
 Henrik Leopold, and
 Hajo A. Reijers. 
-Automatically Discovering Action-Response-Effect Patterns in Business Processes. BPM 2020 (Accepted)
+Looking for Meaning: Discovering Action-Response-Effect Patterns in Business Processes.
+BPM 2020 (Accepted)
+
 https://tinyurl.com/ycf43lub
